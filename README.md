@@ -1,8 +1,6 @@
-Description:
-
 This is a fake website template designed to look like a legitimate remote access tool company. The purpose of this website is to trick scammers into downloading a Remote Access Trojan (RAT) such as AsyncRAT, LimeRAT, or the Mega Rat Pack, which can be used to gain unauthorized access to their computer or network.
 
-To lure scammers into downloading the RAT, the repository includes a text script that instructs scambaiters to call the scammers and pose as a new company that wants them to test their new RDP solution. The scammers are promised a small amount of money for their feedback.
+To lure scammers into downloading the RAT, the repository includes a text script that instructs you to call the scammers and pose as a new company that wants them to test their new RDP solution. The scammers are promised a small amount of money for their feedback.
 
 The website could hosted on a free web hosting service such as byehost33, which allows scambaiters to create a convincing-looking website without revealing their true identity or location. The site includes a section for downloads of the fake remote access tool for different operating systems.
 
